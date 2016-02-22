@@ -272,8 +272,6 @@ public class StreamingTest {
             
             }
 
-
-
 // @Test
 public void testRechercherTout() {
         new LienService().rechercherTout();
