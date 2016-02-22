@@ -266,6 +266,11 @@ public class StreamingTest {
             System.out.println(o[0]+" de "+((Realisateur)o[1]).getPrenom()+" "+((Realisateur)o[1]).getNom());
         }
     }
+    
+    @Test
+    public void testblabla(){
+            
+            }
 
 
 
